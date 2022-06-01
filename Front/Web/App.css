@@ -1,0 +1,47 @@
+.App {
+  background-color: 'white';
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.depTitle {
+box-sizing: border-box;
+border-style: outset;
+
+height: 60px;
+align-items: center;
+justify-content: center;
+display: flex;
+margin-bottom: 10px;
+font-size: 40px;
+/* background-color:  hsla(0, 100%, 70%, 0.3); */
+font-family: 'Times New Roman' ;
+background-color: #244a698c;
+/* background-image: linear-gradient(to right top, #6b81a2, #4471b7, #095fc9, #0048d5, #0424d9); */
+/* background-image: linear-gradient(to right top, #132737, #1d435b, #236380, #2584a7, #1fa7cd, #1fa7cd, #1fa7cd, #1fa7cd, #2584a7, #236380, #1d435b, #132737); */
+border-radius: 1000px;
+
+}
+
+.mapTitle {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 20px;
+  /* border: 1px solid blue; */
+  box-sizing: border-box;
+  /* background-color:  hsla(0, 100%, 70%, 0.3); */
+  font-family: 'Times New Roman' ;
+  }
+
+
+
+
+
+
+
